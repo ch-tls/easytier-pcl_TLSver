@@ -50,3 +50,5 @@ easytier-gui/src-tauri/*.sys
 # contrib
 go.sum
 .test-env/
+# PCL 联机模块构建产物 / 打包产物（scripts/）
+/artifacts/
